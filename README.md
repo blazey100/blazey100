@@ -6,6 +6,7 @@
 
 ## 🌟 About Me  
 🎯 **Who am I?**  
+
 I’m Blazey - a dev-in-training focused on Java and backend systems. Here’s my current vibe:  
 - 🔭 Grinding hard to master Java ☕  
 - 🐍 Learning Python (slowly but surely).  
