@@ -37,7 +37,6 @@ I’m Blazey - a dev-in-training focused on Java and backend systems. Here’s m
 ---
 
 ## 🌐 Where to Find Me  
-Hit me up, let’s collab or just chat! 👇  
 
 <p align="left">
   <a href="mailto:blazey.100.business@gmail.com"><img src="https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"></a>
